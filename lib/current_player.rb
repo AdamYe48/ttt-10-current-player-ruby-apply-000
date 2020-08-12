@@ -1,1 +1,3 @@
-def turn_count
+def turn_count(counter)
+  counter = "0"
+  if 
